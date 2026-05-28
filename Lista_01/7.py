@@ -14,3 +14,5 @@ def num_inversoes(V):
     return total_inversoes
 
 print(num_inversoes(V))
+
+# Tempo de execução O(n^2).

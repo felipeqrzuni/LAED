@@ -24,3 +24,5 @@ def item_lista_ordenada(V):
 
 item_lista_desordenada(L)
 item_lista_ordenada(V)
+
+# Tempo de execução: O(n^2) tanto para a lista ordenada quanto desordenada (do ponto de vista assintótico).

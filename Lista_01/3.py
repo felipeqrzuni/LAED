@@ -22,3 +22,4 @@ print(buscaAproximada(L, 52))
  
 # O output neste caso será (7, 45), indicando que o elemento
 # mais próximo do 52 é o 45, com uma distância de 7 unidades.
+# Tempo de execução O(n).

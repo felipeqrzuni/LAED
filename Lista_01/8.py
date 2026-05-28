@@ -18,3 +18,4 @@ def intersecao(U,V):
 
 
 intersecao(U,V)
+# Tempo de execução O(n^2).

@@ -20,4 +20,4 @@ def dois_elementos_mais_proximos(V):
 
 print(dois_elementos_mais_proximos(V))
 
-
+# Tempo de execução O(n^2).

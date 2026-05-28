@@ -6,7 +6,7 @@ def imparImpar(V):
     visitados = set()
     for i in range(len(V)):
         num = V[i]
-        if num in visitados:
+        if num in visitados: # O(n)
             continue
         if num % 2 != 0:
             contador = V.count(num)
@@ -19,3 +19,4 @@ def imparImpar(V):
 
 imparImpar(V)
 
+# Tempo de execução O(n).

@@ -16,3 +16,5 @@ if segundoMaiorImpar is not None:
     print(f"O segundo maior número ímpar é: {segundoMaiorImpar}")
 else:
     print("Não existem números ímpares na lista.")
+
+# Tempo de execução O(n).
